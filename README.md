@@ -1,7 +1,9 @@
 
 <h1>다음은 미드레벨로 🐳</h1>
-<b>⌨️ Skills</b>
+<br>
 
+<b>⌨ Skills</b>
+<br>
 <div style="display: flex; gap: 5px; margin-bottom: 5px">
 <img src="https://img.shields.io/badge/Nuxt.js_2-eee?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82">
 <img src="https://img.shields.io/badge/vue.js_2-eee?style=for-the-badge&logo=Vue.js&logoColor=4FC08D">
