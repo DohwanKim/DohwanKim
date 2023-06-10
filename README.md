@@ -1,7 +1,5 @@
 
 <h1>다음은 미드레벨로 🐳</h1>
-
----
 <b>⌨️ Skills</b>
 
 <div style="display: flex; gap: 5px; margin-bottom: 5px">
