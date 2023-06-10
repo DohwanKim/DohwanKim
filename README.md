@@ -4,25 +4,32 @@
 ---
 <b>⌨️ Skills</b>
 
+<div style="display: flex; gap: 5px; margin-bottom: 5px">
 <img src="https://img.shields.io/badge/Nuxt.js_2-eee?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82">
 <img src="https://img.shields.io/badge/vue.js_2-eee?style=for-the-badge&logo=Vue.js&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/VueX-4FC08D?style=flat-square">
-<br>
+<div>
+<img src="https://img.shields.io/badge/VueX-4FC08D?style=flat-square"></div>
+</div>
+<div style="display: flex; gap: 5px; margin-bottom: 5px">
 <img src="https://img.shields.io/badge/Next.js_13-eee?style=for-the-badge&logo=Next.js&logoColor=000">
 <img src="https://img.shields.io/badge/React.js_18-eee?style=for-the-badge&logo=React&logoColor=61DAFB">
+<div>
 <img src="https://img.shields.io/badge/Tanstack Query-36B6E5?style=flat-square&logo=reactquery&logoColor=FF4154">
 <img src="https://img.shields.io/badge/Recoil-36B6E5?style=flat-square">
 <img src="https://img.shields.io/badge/CSS_Modules-36B6E5?style=flat-square&logo=cssmodules&logoColor=#000000">
-
-<br>
+</div>
+</div>
+<div style="display: flex; gap: 5px; margin-bottom: 5px">
 <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=#F7DF1E">
 <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=#3178C6">
-<br>
+</div>
+<div style="display: flex; gap: 5px; margin-bottom: 5px">
 <img src="https://img.shields.io/badge/Sementic HTML5-333?style=flat-square&logo=html5&logoColor=#E34F26">
 <img src="https://img.shields.io/badge/CSS3-333?style=flat-square&logo=css3&logoColor=#1572B6">
 <img src="https://img.shields.io/badge/PostCSS-333?style=flat-square&logo=postcss&logoColor=#DD3A0A">
 <img src="https://img.shields.io/badge/SASS-333?style=flat-square&logo=sass&logoColor=#CC6699">
 <img src="https://img.shields.io/badge/Tailwind_CSS-333?style=flat-square&logo=tailwindcss&logoColor=#06B6D4">
+</div>
 
 ---
 <b>📜History</b>
