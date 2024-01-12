@@ -38,7 +38,8 @@
 <i>
 2018~2019: ready to frontend<br>
 2020: Web Publishing freelancer<br>
-2021~now: SpadeCompany Frontend Developer
+2021.11~2023.11: SpadeCompany Frontend Developer
+2023.12~: personal project and job hunting
 </i>
 
 ---
