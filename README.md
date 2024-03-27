@@ -8,6 +8,7 @@
 
 ---
 ### 기술 현황
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6603ffbb0331d9b5bedac8f8?variant=dark)](https://roadmap.sh)
 #### 더 알고 배우고 싶은 스택
 <div style="display: flex; gap: 5px; margin-top: -10px">
     <img src="https://img.shields.io/badge/react_native-41DAFB?style=for-the-badge&logo=react&logoColor=fff">
