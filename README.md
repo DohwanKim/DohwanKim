@@ -1,10 +1,8 @@
 
 <h1>다음은 미드레벨로 🐳</h1>
 
-### 간단소개
 반갑습니다. 프론트엔드 개발자로 활동하고 있습니다.<br>
-최근에 꼭 만들어 보고 싶었던 갤러리 페이지를 하나 오픈했습니다.
-[구경하고 가세요!](https://kimdongcheol-art.com/)
+갤러리 페이지를 하나 오픈하고 서비스 중 입니다. [구경하고 가세요:)](https://kimdongcheol-art.com/)
 
 ---
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6603ffbb0331d9b5bedac8f8?variant=dark)](https://roadmap.sh)
