@@ -81,8 +81,7 @@
 
 ---
 #### 🤪 취미
-- [GOTY 게임](https://namu.wiki/w/Game%20of%20the%20Year/%EB%AA%A9%EB%A1%9D) 🎮 (게임은 예술이다.)
-- 페이투윈 없는 경쟁 게임🕹
+- [GOTY 게임](https://namu.wiki/w/Game%20of%20the%20Year/%EB%AA%A9%EB%A1%9D) 🎮
 
 
 
