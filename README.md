@@ -18,7 +18,6 @@
 <div style="display: flex; gap: 5px; margin-top: -10px">
     <img src="https://img.shields.io/badge/react_native-41DAFB?style=for-the-badge&logo=react&logoColor=fff">
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff">
-    <img src="https://img.shields.io/badge/자동화_된_인프라_구성-000?style=for-the-badge">
 </div>
 
 #### 최근에 익혔던(익히고 있는) 스택
