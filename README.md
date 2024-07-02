@@ -7,11 +7,12 @@
 ---
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6603ffbb0331d9b5bedac8f8?variant=dark)](https://roadmap.sh)
 #### 근황 (24.04~)
-생각보다 시장이 많이 좋지 않네요. 아쉽지만 이 시간으로 다양한 강의들을 듣고 있어요.<br>
+취업활동을 하면서 자신에 대한 부족함을 많이 느끼고 있네요.<br>
+리더를 팔로워 할 수 있는 주니어가 되기 위해 좀 더 노력중이에요.<br>
 - [x] 알고리즘 백트래킹 까지 복습. [바킹독](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [x] 클린 코드: [JS Clean Code](https://www.udemy.com/share/105zfE3@1f-gtHzrZnNIJXsJE9AQIT9dkRg2qHscqH8j1gA9wp_wKolUYmTGIYcqB3mlQQYuHA==/), [React Clean Code](https://www.udemy.com/share/10afrk3@xU7njdu5aKeEzUW7v9zFwysUSCycUAtje-6G0t3a9K7HQ6H7v6_DrGiP5ME4wsdRog==/),
 - [x] 헙업툴: [Jira](https://www.udemy.com/share/107ssY3@IYsVmVigGJOvKZEje-wq9P9GMzk9ShBEcFwdXXMCgDc22h1AtjcwK1zJqkNW4IZ4eA==/)
-- [ ] 놓친 것이 없나 확인: [Next.js 14](https://www.udemy.com/share/1071i43@9JdjB_WmJFzUB_Qov19AlJbJpYvz-L60KodBA_LI9r5YNR2bTxbqlgtpny64ZvETBQ==/), [React Query](https://www.udemy.com/share/1073K63@TjTTzC3W_xNcZTbmFvr26m7b2KVV4PAUgThB4HmvA0cQVlG03bAx0aTDgrUi4e1Vkw==/)
+- [x] 놓친 것이 없나 확인: [Next.js 14](https://www.udemy.com/share/1071i43@9JdjB_WmJFzUB_Qov19AlJbJpYvz-L60KodBA_LI9r5YNR2bTxbqlgtpny64ZvETBQ==/), [React Query](https://www.udemy.com/share/1073K63@TjTTzC3W_xNcZTbmFvr26m7b2KVV4PAUgThB4HmvA0cQVlG03bAx0aTDgrUi4e1Vkw==/)
 - [ ] 영역 넓히기: [React Native](https://www.udemy.com/share/1075C43@e_pIajmfb3uMXFoTy3yc6yPnmTb-hfM6OEIcPrTIyF8mWJiQO5eMWc-T78etf6Cw_w==/)
 
 #### 더 알고 배우고 싶은 스택
