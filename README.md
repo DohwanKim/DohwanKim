@@ -104,6 +104,7 @@
 ---
 #### 🤪 취미
 - [GOTY 게임](https://namu.wiki/w/Game%20of%20the%20Year/%EB%AA%A9%EB%A1%9D), FPS, 철권, 리듬게임 🎮
+- IT 기기, 컴퓨터 부품 근황들을 살펴보며 지름신과 대적하기
 
 
 
