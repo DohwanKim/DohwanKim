@@ -24,6 +24,7 @@
   - [ ] [React Native](https://www.udemy.com/share/1075C43@e_pIajmfb3uMXFoTy3yc6yPnmTb-hfM6OEIcPrTIyF8mWJiQO5eMWc-T78etf6Cw_w==/)
   - [ ] [Docker & Kubernetes](https://www.udemy.com/course/docker-kubernetes-2022/?couponCode=ST16MT70224)
   - [ ] [DB](https://www.udemy.com/course/best-sql-2022/learn/lecture/29096988?start=0#overview)
+- [ ] (예정단계) [FSD](https://feature-sliced.design/)으로 Next.js 디렉토리 아키텍쳐 구성해보기. [[참고1]](https://velog.io/@jay/fsd)
 - [ ] (예정단계) 참고하고 배워 만들어보면 좋지 않을까?: [tailwind-nextjs-starter-blog
   ](https://github.com/timlrx/tailwind-nextjs-starter-blog) 
 
@@ -102,7 +103,7 @@
 
 ---
 #### 🤪 취미
-- [GOTY 게임](https://namu.wiki/w/Game%20of%20the%20Year/%EB%AA%A9%EB%A1%9D) 🎮
+- [GOTY 게임](https://namu.wiki/w/Game%20of%20the%20Year/%EB%AA%A9%EB%A1%9D), FPS, 철권, 리듬게임 🎮
 
 
 
