@@ -93,6 +93,10 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=fff">
 </div>
 
+
+<b>학부시절에 배운 기억이 가물가물한 언어들(~2019)</b><br>
+C언어, Java, Python 2
+
 ---
 #### 📜 History
 - 2018~2019(1년): 대학에서 Vue를 공부하며 프론트엔드 개발에 관심을 가짐
