@@ -16,7 +16,7 @@
 - [x] 협업 기반 다져 놓기: [Jira & Agile](https://www.udemy.com/share/107ssY3@IYsVmVigGJOvKZEje-wq9P9GMzk9ShBEcFwdXXMCgDc22h1AtjcwK1zJqkNW4IZ4eA==/)
 - [ ] 내가 알고 있다고 자만하고 있지 않을까?:
   - [x] [Next.js 14](https://www.udemy.com/share/1071i43@9JdjB_WmJFzUB_Qov19AlJbJpYvz-L60KodBA_LI9r5YNR2bTxbqlgtpny64ZvETBQ==/)
-  - [ ] [(Now)Git](https://www.udemy.com/course/best-git-github/)
+  - [x] [(Now)Git](https://www.udemy.com/course/best-git-github/) - 실제로 interactive rebase, reflog는 사용할 일이 제법 있을 것 같다!  
   - [ ] [React Query](https://www.udemy.com/share/1073K63@TjTTzC3W_xNcZTbmFvr26m7b2KVV4PAUgThB4HmvA0cQVlG03bAx0aTDgrUi4e1Vkw==/)
 - [ ] 해봐도 감이 안잡혀서 물고 늘어지기:
   - [ ] [Jest](https://www.udemy.com/course/jest-testing-library/learn/lecture/40836616#overview) 
