@@ -6,15 +6,7 @@
 
 ---
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6603ffbb0331d9b5bedac8f8?variant=dark)](https://roadmap.sh)
-#### 근황 (24.4~)
-여전히 자신에 대한 부족함을 많이 느끼고 있네요.  
-리더를 팔로워 할 수 있는 주니어가 되기 위해 좀 더 노력중이에요.  
-  
-FeConf 같은 세션을 보니 프론트엔드가 이미지 최적화를 하기 위해 인프라를 활용하고 구축하는 모습이 너무 멋있어 보였어요.
-시야를 넓혀 프론트엔드가 필요한 벡엔드, 인프라, 데브옵스에도 관심을 가지고 있어요.  
-실제 상황에서 비용을 절감을 할 수 있는 능력을 갖추고 싶어요.   
-
-
+#### 근황 (24.10~)
 - [x] 알고리즘 (백트래킹까지 복습): [바킹독](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [x] 클린 코드:
   - [x] [JS Clean Code](https://www.udemy.com/share/105zfE3@1f-gtHzrZnNIJXsJE9AQIT9dkRg2qHscqH8j1gA9wp_wKolUYmTGIYcqB3mlQQYuHA==/)
@@ -117,6 +109,7 @@ C언어, Java, Python 2
 - 2021.11~2023.11(3년): SpadeCompany 프론트엔드 개발자
 - 2023.12~2024.03: [개인프로젝트](https://kimdongcheol-art.com/)
 - 2024.04~: 구직 활동
+- 2024.10~: 하나투어 프론트엔드 개발자
 
 ---
 #### 🤪 취미
