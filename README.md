@@ -6,32 +6,21 @@
 
 ---
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6603ffbb0331d9b5bedac8f8?variant=dark)](https://roadmap.sh)
-#### 근황 (24.10~)
-- [x] 알고리즘 (백트래킹까지 복습): [바킹독](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-- [x] 클린 코드:
-  - [x] [JS Clean Code](https://www.udemy.com/share/105zfE3@1f-gtHzrZnNIJXsJE9AQIT9dkRg2qHscqH8j1gA9wp_wKolUYmTGIYcqB3mlQQYuHA==/)
-  - [x] [React Clean Code](https://www.udemy.com/share/10afrk3@xU7njdu5aKeEzUW7v9zFwysUSCycUAtje-6G0t3a9K7HQ6H7v6_DrGiP5ME4wsdRog==/), 
-- [x] 협업 기반 다져 놓기: [Jira & Agile](https://www.udemy.com/share/107ssY3@IYsVmVigGJOvKZEje-wq9P9GMzk9ShBEcFwdXXMCgDc22h1AtjcwK1zJqkNW4IZ4eA==/)
-- [x] 내가 알고 있다고 자만하고 있지 않을까?:
+#### 근황 (24.11~)
   - [x] [Next.js 14](https://www.udemy.com/share/1071i43@9JdjB_WmJFzUB_Qov19AlJbJpYvz-L60KodBA_LI9r5YNR2bTxbqlgtpny64ZvETBQ==/)
     - 병렬 및 인터셉트 라우트는 마스터는 못한 것 같다. 잘 기억해두고 실전 상황에서 다시 고려해보자.
     - revalidatePath 및 revalidateTag를 사용한 온디맨드 캐시 무효화 기능을 직접 알게 되었다. 실전에서 적용 할 곳이 있을까?
-  - [x] [Git](https://www.udemy.com/course/best-git-github/) - 실제로 interactive rebase, reflog는 사용할 일이 제법 있을 것 같다!
-- [x] (Now) 새로운 곳을 위해 빠르게 학습!
-  - [x] 다시봐도 [Vue](https://www.udemy.com/course/vue-router-composition-api/)는 쉽고 강하다. 
-  - [ ] [정규식](https://www.udemy.com/course/regular-expressions-with-exerciss/) 실전성이 실무에서 엄청 높았다. 미루지 말고 해두자!
-- [ ] 해봐도 감이 안잡혀서 물고 늘어지기:
+  - [x] [Git](https://www.udemy.com/course/best-git-github/) - interactive rebase, reflog는 사용할 일이 제법 있을 것 같다!
+- TODO
+  - [ ] (now) [Docker & Kubernetes](https://www.udemy.com/course/docker-kubernetes-2022/?couponCode=ST16MT70224)
+  - [ ] [정규식](https://www.udemy.com/course/regular-expressions-with-exerciss/)
   - [ ] [Jest](https://www.udemy.com/course/jest-testing-library/learn/lecture/40836616#overview) 
-- [ ] 영역 넓히기:
-  - [ ] [React Native](https://www.udemy.com/share/1075C43@e_pIajmfb3uMXFoTy3yc6yPnmTb-hfM6OEIcPrTIyF8mWJiQO5eMWc-T78etf6Cw_w==/)
-    - 리액트 네이티브가 아니더라도 모바일 네이티브 환경에 익숙한 프론트 개발자가 되야한다.
-  - [ ] [Docker & Kubernetes](https://www.udemy.com/course/docker-kubernetes-2022/?couponCode=ST16MT70224)
+- 영역 넓히기 목록:
+  - [React Native](https://www.udemy.com/share/1075C43@e_pIajmfb3uMXFoTy3yc6yPnmTb-hfM6OEIcPrTIyF8mWJiQO5eMWc-T78etf6Cw_w==/)
   - [ ] [DB](https://www.udemy.com/course/best-sql-2022/learn/lecture/29096988?start=0#overview)
     - 직전 풀스택 프로젝트에서 postgresql를 사용했지만 GPT + ORM 조합으로 겉핥기만 했다. 근본적으로 postgresql를 알고 ORM를 써야 한다는 직감이 온다.
 - [ ] (예정단계) [FSD](https://feature-sliced.design/)으로 Next.js 디렉토리 아키텍쳐 구성해보기. [[참고1]](https://velog.io/@jay/fsd)
   - 이전에 아토믹 디자인의 한계를 많이 느꼈다. Next.js가 중요하기 보단 패턴 자체의 실전성을 알고 싶다.
-- [ ] (새로운 사이드 프로젝트 예정단계) 블로그 만드는 것이 엄청 빡세다는 걸 알고 있지만, 개발 이야기 뿐만 아니라 나의 가치를 공유할 일기장이 확실히 필요하다: [tailwind-nextjs-starter-blog
-  ](https://github.com/timlrx/tailwind-nextjs-starter-blog) 
 
 #### 더 알고 배우고 싶은 스택
 <div style="display: flex; gap: 5px; margin-top: -10px">
