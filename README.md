@@ -2,31 +2,13 @@
 <h1>다음은 미드레벨로 🐳</h1>
 
 반갑습니다. 프론트엔드 개발자로 활동하고 있습니다.<br>
-작은 웹 갤러리를 운영하고 있습니다 [구경하고 가세요:)](https://kimdongcheol-art.com/)
+
 
 ---
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6603ffbb0331d9b5bedac8f8?variant=dark)](https://roadmap.sh)
-#### 근황 (24.11~)
-  - [x] [Next.js 14](https://www.udemy.com/share/1071i43@9JdjB_WmJFzUB_Qov19AlJbJpYvz-L60KodBA_LI9r5YNR2bTxbqlgtpny64ZvETBQ==/)
-    - 병렬 및 인터셉트 라우트는 마스터는 못한 것 같다. 잘 기억해두고 실전 상황에서 다시 고려해보자.
-    - revalidatePath 및 revalidateTag를 사용한 온디맨드 캐시 무효화 기능을 직접 알게 되었다. 실전에서 적용 할 곳이 있을까?
-  - [x] [Git](https://www.udemy.com/course/best-git-github/) - interactive rebase, reflog는 사용할 일이 제법 있을 것 같다!
-- TODO
-  - [ ] (now) [Docker & Kubernetes](https://www.udemy.com/course/docker-kubernetes-2022/?couponCode=ST16MT70224)
-  - [ ] [정규식](https://www.udemy.com/course/regular-expressions-with-exerciss/)
-  - [ ] [Jest](https://www.udemy.com/course/jest-testing-library/learn/lecture/40836616#overview) 
-- 영역 넓히기 목록:
-  - [React Native](https://www.udemy.com/share/1075C43@e_pIajmfb3uMXFoTy3yc6yPnmTb-hfM6OEIcPrTIyF8mWJiQO5eMWc-T78etf6Cw_w==/)
-  - [ ] [DB](https://www.udemy.com/course/best-sql-2022/learn/lecture/29096988?start=0#overview)
-    - 직전 풀스택 프로젝트에서 postgresql를 사용했지만 GPT + ORM 조합으로 겉핥기만 했다. 근본적으로 postgresql를 알고 ORM를 써야 한다는 직감이 온다.
-- [ ] (예정단계) [FSD](https://feature-sliced.design/)으로 Next.js 디렉토리 아키텍쳐 구성해보기. [[참고1]](https://velog.io/@jay/fsd)
-  - 이전에 아토믹 디자인의 한계를 많이 느꼈다. Next.js가 중요하기 보단 패턴 자체의 실전성을 알고 싶다.
 
-#### 더 알고 배우고 싶은 스택
-<div style="display: flex; gap: 5px; margin-top: -10px">
-    <img src="https://img.shields.io/badge/react_native-41DAFB?style=for-the-badge&logo=react&logoColor=fff">
-    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff">
-</div>
+
+
 
 #### 최근에 익혔던(익히고 있는) 스택
 <div style="display: flex; gap: 5px; margin-top: -10px">
@@ -96,7 +78,7 @@ C언어, Java, Python 2
 - 2018~2019(1년): 대학에서 Vue를 공부하며 프론트엔드 개발에 관심을 가짐
 - 2020.02~2021.06(1년): 프리랜서 팀에 합류하여 웹 퍼블리싱 및 프론트엔드 활동
 - 2021.11~2023.11(3년): SpadeCompany 프론트엔드 개발자
-- 2023.12~2024.03: [개인프로젝트](https://kimdongcheol-art.com/)
+- 2023.12~2024.03: Father-gallery 갤러리(Web fullstack) 프로젝트
 - 2024.04~: 구직 활동
 - 2024.10~: 하나투어 프론트엔드 개발자
 
@@ -104,6 +86,3 @@ C언어, Java, Python 2
 #### 🤪 취미
 - [GOTY 게임](https://namu.wiki/w/Game%20of%20the%20Year/%EB%AA%A9%EB%A1%9D), FPS, 철권, 리듬게임 🎮
 - IT 기기, 컴퓨터 부품 근황들을 살펴보며 지름신과 대적하기 🖥️
-
-
-
