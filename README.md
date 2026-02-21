@@ -1,13 +1,5 @@
-
-<h1>다음은 미드레벨로 🐳</h1>
-
 반갑습니다. 프론트엔드 개발자로 활동하고 있습니다.<br>
-
-
----
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6603ffbb0331d9b5bedac8f8?variant=dark)](https://roadmap.sh)
-
-
+근래 AI의 파워를 인정하고 굴복하여 지금은 어떻게 굴려먹을지에 집중하고 있습니다.
 
 
 #### 최근에 익혔던(익히고 있는) 스택
@@ -16,8 +8,6 @@
     <span>
         <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=fff">
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=fff">
-        <img src="https://img.shields.io/badge/mockserviceworker_2.0-FF6A33?style=flat-squaree&logo=mockserviceworker&logoColor=fff">
-        <img src="https://img.shields.io/badge/Cloudflare_Image-F38020?style=flat-squaree&logo=cloudflare&logoColor=fff">
     </span>
 </div>
 
@@ -39,7 +29,10 @@
         <img src="https://img.shields.io/badge/Recoil-36B6E5?style=flat-square&logo=recoil&logoColor=fff">
         <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=fff">
         <img src="https://img.shields.io/badge/CSS_Modules-36B6E5?style=flat-square&logo=cssmodules&logoColor=fff">
+        <img src="https://img.shields.io/badge/mockserviceworker_2.0-FF6A33?style=flat-squaree&logo=mockserviceworker&logoColor=fff">
         <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=fff">
+        <img src="https://img.shields.io/badge/Cloudflare_Image-F38020?style=flat-squaree&logo=cloudflare&logoColor=fff">
+        <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=fff">
     </span>
 </div>
 
