@@ -13,7 +13,7 @@
 
 #### 선호하는 스택
 <div style="display: flex; gap: 5px; margin-top: -10px">
-    <img src="https://img.shields.io/badge/Next.js_14-000?style=for-the-badge&logo=Next.js&logoColor=fff">
+    <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=fff">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff">
     <span>
         <img src="https://img.shields.io/badge/Zustand-423e39?style=flat-square">
